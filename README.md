@@ -23,6 +23,7 @@ I'm a passionate **Software Engineer** experienced in building robust, scalable 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![Typescript](https://img.shields.io/badge/-Typescript-E0234E?style=flat&logo=typescript)
 
 ## 🛠 Projects
 
@@ -39,4 +40,4 @@ I'm a passionate **Software Engineer** experienced in building robust, scalable 
 
 ---
 
-_Always eager to collaborate on exciting projects or chat about tech and football!_
+_Always eager to collaborate on exciting projects or chat about tech
