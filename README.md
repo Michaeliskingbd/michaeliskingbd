@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Michael Aladejuyigbe 👋
 
-<!--
-**Michaeliskingbd/michaeliskingbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-aladejuyigbe-6490a7288)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://michaelking.vercel.app)
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Software Engineer** experienced in building robust, scalable web applications with modern technologies. I love turning ideas into impactful products that help people and organizations thrive.
+
+- 🔭 Currently working on:  
+  - **Crowdfunding Platform** (like GoFundMe) with modern & AI features  
+  - **HR Management App** with payroll automations and AI contract generation
+
+- 🌱 I’m learning: Next-gen AI integrations and advanced backend scaling
+- 💬 Ask me about: React, Next.js, Node.js, Express, NestJS
+- 🌍 Languages: English
+- ⚽ Interests: Football, technology, and innovation
+
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+
+## 🛠 Projects
+
+- **Crowdfunding App**:  
+  A modern fundraising platform inspired by GoFundMe, enhanced with AI-driven features for campaign recommendations, analytics, and fraud detection.
+
+- **HR Management System**:  
+  Automates HR tasks including payroll, contract creation with AI, and more, designed for efficiency and compliance.
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/michael-aladejuyigbe-6490a7288)
+- [Portfolio](https://michaelking.vercel.app)
+
+---
+
+_Always eager to collaborate on exciting projects or chat about tech and football!_
