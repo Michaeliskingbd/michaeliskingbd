@@ -11,10 +11,10 @@ I'm a passionate **Software Engineer** experienced in building robust, scalable 
   - **Crowdfunding Platform** (like GoFundMe) with modern & AI features  
   - **HR Management App** with payroll automations and AI contract generation
 
-- 🌱 I’m learning: Next-gen AI integrations and advanced backend scaling
-- 💬 Ask me about: React, Next.js, Node.js, Express, NestJS
-- 🌍 Languages: English
-- ⚽ Interests: Football, technology, and innovation
+- 🌱 Experienced in Next-gen AI integrations and advanced backend scaling
+- 💬 Ask me about: React, Next.js, FastAPI, NestJS, Artificial Intelligence
+- 🌍 Languages: English, Spanish
+- ⚽ Interests: Technology, Sport and innovation
 
 ## 🚀 Tech Stack
 
@@ -23,6 +23,7 @@ I'm a passionate **Software Engineer** experienced in building robust, scalable 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![FastAPI](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=fastapi)
 ![Typescript](https://img.shields.io/badge/-Typescript-E0234E?style=flat&logo=typescript)
 
 ## 🛠 Projects
