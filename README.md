@@ -23,7 +23,7 @@ A **Software Engineer** experienced in building robust, scalable web application
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![FastAPI](https://img.shields.io/badge/-FastAPU-E0234E?style=flat&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/-FastAPI-E0234E?style=flat&logo=fastapi)
 ![Typescript](https://img.shields.io/badge/-Typescript-E0234E?style=flat&logo=typescript)
 
 ## 🛠 Projects
