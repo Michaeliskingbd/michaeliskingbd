@@ -1,4 +1,4 @@
-# Hi, I'm Michael Aladejuyigbe 👋
+# Hi, I'm Michael Aladejuyigbe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-aladejuyigbe-6490a7288)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://michaelking.vercel.app)
