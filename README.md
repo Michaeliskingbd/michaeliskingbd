@@ -9,7 +9,7 @@ A **Software Engineer** experienced in building robust, scalable web application
 
 - 🔭 Currently working on:  
   - **Crowdfunding Platform** (like GoFundMe) with modern & AI features.  
-  - **HR Management App** with payroll automations and AI contract generation
+  - **HR Management App** with payroll automations and AI contract generation.
 
 - 🌱 Experienced in Next-gen AI integrations and advanced backend scaling
 - 💬 Ask me about: React, Next.js, FastAPI, NestJS, Artificial Intelligence
