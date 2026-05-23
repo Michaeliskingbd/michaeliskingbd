@@ -8,7 +8,7 @@
 A **Software Engineer** experienced in building robust, scalable web applications with modern technologies. I love turning ideas into impactful products that help people and organizations thrive.
 
 - 🔭 Currently working on:  
-  - **Crowdfunding Platform** (like GoFundMe) with modern & AI features  
+  - **Crowdfunding Platform** (like GoFundMe) with modern & AI features.  
   - **HR Management App** with payroll automations and AI contract generation
 
 - 🌱 Experienced in Next-gen AI integrations and advanced backend scaling
