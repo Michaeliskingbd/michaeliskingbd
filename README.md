@@ -1,7 +1,7 @@
 # Hi, I'm Michael Aladejuyigbe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-aladejuyigbe-6490a7288)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://michaelking.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://michaeli.dev)
 
 ## 💻 About Me
 
@@ -37,7 +37,7 @@ A **Software Engineer** experienced in building robust, scalable web application
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/michael-aladejuyigbe-6490a7288)
-- [Portfolio](https://michaelking.vercel.app)
+- [Portfolio](https://michaeli.dev)
 
 ---
 
