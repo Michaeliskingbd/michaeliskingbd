@@ -14,7 +14,7 @@ I have experience building products and enterprise applications, integrating thi
 
 ### Current Focus
 
-- **ASP.NET Core and .NET:** Building production-oriented APIs and backend services using C#, Entity Framework Core, PostgreSQL, ASP.NET Identity, and OpenIddict.
+- **ASP.NET Core and .NET:** Building production-oriented APIs and backend services using C#, Entity Framework Core, PostgreSQL, ASP.NET Identity,and OpenIddict.
 - **Distributed Systems:** Exploring reliable messaging, asynchronous processing, fault tolerance, idempotency, concurrency control, and service orchestration.
 - **Backend Architecture:** Designing modular systems with clear boundaries, maintainable service layers, and well-defined API contracts.
 - **Infrastructure and Observability:** Deepening my experience with Docker, message brokers, caching, distributed tracing, and production monitoring.
