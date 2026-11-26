@@ -23,7 +23,7 @@ I have experience building products and enterprise applications, integrating thi
 
 ### WiFundit — Crowdfunding Platform
 
-A crowdfunding platform that enables individuals and organisations to raise funds for meaningful causes
+A crowdfunding platform that enables individuals and organisations to raise funds for meaningful causes.
 
 **Engineering contributions:**
 - Integrated Paystack and Flutterwave payment infrastructure.
